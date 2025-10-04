@@ -1,0 +1,11 @@
+{
+  "id": "3",
+  "title": "Longest Substring Without Repeating Characters",
+  "slug": "longest-substring-without-repeating-characters",
+  "difficulty": "Medium",
+  "tags": [
+    "sliding-window",
+    "string"
+  ],
+  "created": "2025-10-04"
+}

@@ -2,10 +2,12 @@ from typing import List
 
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        lookup = {}
-        for i, x in enumerate(nums):
-            need = target - x
-            if need in lookup:
-                return [lookup[need], i]
-            lookup[x] = i
-        return []
+        hashmap = {}
+        for i, n in enumerate(nums):
+            diff = target - n
+            if diff in hashmap:
+                return [hashmap[diff],i]
+            hashmap[n] = i
+        return 
+
+        

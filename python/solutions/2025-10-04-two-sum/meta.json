@@ -1,0 +1,11 @@
+{
+  "id": "1",
+  "title": "Two Sum",
+  "slug": "two-sum",
+  "difficulty": "Easy",
+  "tags": [
+    "array",
+    "hash-table"
+  ],
+  "created": "2025-10-04"
+}

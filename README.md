@@ -26,13 +26,8 @@ Solve **2–3 problems every day** and push to GitHub.
    git push origin main
    ```
 
-## Daily plan
-- **Warm‑up (10–15m):** 1 Easy to keep flow.
-- **Main (25–35m):** 1 Medium on core patterns (two pointers / sliding window / binary search / stack / heap / graph / DP).
-- **Stretch (15–25m):** 1 Medium/Hard if time allows; else revisit a previous one and write better tests.
-
 Track streak in this table (update automatically by committing daily):
 
 | Date | Count | Notes |
 |------|-------|-------|
-| YYYY‑MM‑DD | 2 | e.g., sliding window & heap |
+| 2025‑10‑05 | 3 | blind 75 |

@@ -1,0 +1,10 @@
+{
+  "id": "5",
+  "title": "longest-palindromic-substring",
+  "slug": "longest-palindromic-substring",
+  "difficulty": "Medium",
+  "tags": [
+    "string"
+  ],
+  "created": "2025-10-05"
+}
